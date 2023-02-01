@@ -1,0 +1,28 @@
+h1{
+    padding: 50px;
+    text-align: center;
+    margin: 50px;
+    color:rgb(22, 6, 245);
+    background-color: antiquewhite;
+    font-size: 50px;
+}
+div {
+    margin-left: 500px;
+    margin-right: 500px;
+    padding:50px;
+    height: 200px;
+    border: 3px solid green;
+    text-align: center;
+}
+section{
+    padding:10px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    color: red;
+    font-size: larger;
+}
+img{
+    margin-left:600px;
+    margin-top: 50px;
+    height: 100px;
+}
